@@ -1,11 +1,4 @@
-#
-#  4 - Thread Scheduler (Linux)
-#
-#  2017, Operating Systems
-#
-
 # Archive:
-
 > Makefile.checker
 > README
 > run_all.sh
@@ -19,7 +12,6 @@
 	> test_sched.c
 
 # Build:
-
 The local directory must contain the thread scheduler library
 (libscheduler.so). Use the Makefile.checker to properly build the run_test
 executable:
